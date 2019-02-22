@@ -1,0 +1,6 @@
+Cloning into 'gitolite-admin'...
+The authenticity of host 'openlink4 (10.10.10.100)' can't be established.
+ECDSA key fingerprint is SHA256:iQPPvSWrxGBOkRtLmxM9tW9tUzlNUJ4Fpt+fBKFBu7U.
+ECDSA key fingerprint is MD5:fc:98:de:e1:ff:69:54:8e:8e:9b:58:83:1d:c1:42:4f.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'openlink4,10.10.10.100' (ECDSA) to the list of known hosts.
